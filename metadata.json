@@ -1,0 +1,6 @@
+{
+  "name": "DISCO BLUE PHYSICS OLYMPIAD",
+  "description": "Platform latihan interaktif Olimpiade Sains Fisika tingkat kabupaten/kota khusus pengembangan Soal Nomor 5 OSK 2026 di bawah bimbingan Mister Jo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
